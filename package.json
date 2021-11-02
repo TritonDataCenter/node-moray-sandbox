@@ -2,7 +2,7 @@
   "name": "moray-sandbox",
   "description": "Library for managing temporary, sandboxed Moray instances",
   "main": "./lib/index.js",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "keywords": [
     "moray"
   ],
