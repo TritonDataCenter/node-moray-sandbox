@@ -2,13 +2,13 @@
   "name": "moray-sandbox",
   "description": "Library for managing temporary, sandboxed Moray instances",
   "main": "./lib/index.js",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "keywords": [
     "moray"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/joyent/node-moray-sandbox.git"
+    "url": "https://github.com/joyent/node-moray-sandbox.git"
   },
   "dependencies": {
     "assert-plus": "1.0.0",
